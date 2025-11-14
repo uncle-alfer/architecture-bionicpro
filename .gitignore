@@ -1,2 +1,6 @@
 /postgres-keycloak-data
 2024__yandex-architecture-sso.code-workspace
+install_docker_ubuntu.sh
+airflow/.env
+.venv
+__pycache__
