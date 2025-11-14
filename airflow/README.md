@@ -40,7 +40,7 @@ docker compose -f airflow/docker-compose.airflow.yaml up -d
 
 После старта стенда:
 
-1. Открыть UI Airflow: `http://localhost:8080`
+1. Открыть UI Airflow: `http://localhost:8081`
    Логин/пароль создаются автоматически: `admin / admin`.
 
 2. В списке DAG’ов найти `bionicpro_reports_dag` и включить (тумблер в состояние **On**).
